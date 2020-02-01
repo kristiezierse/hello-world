@@ -10,7 +10,7 @@ My 100 Days of Coding<br><br>
   
 <p> Took a Break to Mother my Children.</p>
 <p>November 18, 20219 - Day 6 - Started Data Science bootcamp at Southern Careers Institute.</p>
-<p>Course Work:</p> 
-<p>4 weeks of Basic Statistics.</p>
-<p>4 Weeks of Statistical Programming in R.</p>
-<p>4 Weeks of Programming Foundations in Python.</p>
+<p>Course Work In Progress:</p> 
+<p>Nov 18, 2020 - 3 weeks of Basic Statistics.</p>
+<p>Dec 9, 2020 - 3 Weeks of Statistical Programming in R. (Plus Winter Break)</p>
+<p>Jan 13, 2020 - 3 Weeks of Programming Foundations in Python.</p>
